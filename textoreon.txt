@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-lorem ipsumoker
-=======
 lorem ipsum sit dolor sit amet
->>>>>>> origin/kel-2
